@@ -1,4 +1,4 @@
-<p align="center"><img width=65% src="images/math-foundations.png"></p>
+<p align="center"><img width=65% src="images/machine-learning-math-01.png"></p>
 
 <p align="center" style="color:DodgerBlue; font-family:cambria; font-variant: normal; font-size:20pt; font-weight:bold; font-weight: 900">MATH FOUNDATIONS 
 </p>
@@ -9,19 +9,16 @@ This repo contains books, courses, certifications, and nanodegrees that have hel
 # **Table Of Contents**
 
 ### **Books**
-1. [Designing data intensive applications: Martin Klepmann]()
-2. [System design]()
-
+1. [TBD]()
+2. [TBD]()
 
 ### **Courses**
 1. [Linear Algebra: Coursera]()
 
-
 ### **Certifications**
-1. [DataQuest data egnineering path]()
-2. [Big data engineering: Jesse Anderson]()
-
+1. [TBD]()
+2. [TBD]()
 
 ### **Nanodegrees**
-1. [Data engineer: Udacity]()
+1. [TBD]()
 2. [TBD]()
