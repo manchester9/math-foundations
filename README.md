@@ -13,6 +13,7 @@ This repo contains books, courses, certifications, websites, and nanodegrees tha
 ### **Books**
 1. [Linear Algebra and learning from data](https://www.amazon.com/Linear-Algebra-Learning-Gilbert-Strang/dp/0692196382/ref=sr_1_13?dchild=1&keywords=matrix+algebra+for+data+science&qid=1591755246&sr=8-13)
 2. [TBD]()
+3. [TBD]()
 
 ### **Courses**
 1. [Linear Algebra: Coursera]()
